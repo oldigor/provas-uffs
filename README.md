@@ -2,6 +2,7 @@
 
 Formato dos nomes dos arquivos:  
 `<nome da disciplina>/<ano>.<semestre> - Prova [Recuperação ]NP<número>[ - Parte <parte>].<extensão>`  
+Se não tiver paciência, só coloca a foto na pasta e alguém arruma.  
   
 Exemplos
 ====
